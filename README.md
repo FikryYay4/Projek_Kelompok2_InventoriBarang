@@ -85,8 +85,8 @@ Project ini dikembangkan sebagai **tugas akademik** dengan penerapan konsep fund
 
 ## 👥 Anggota Kelompok
 
-| No | Nama | NIM |
-|----|------|-----|
+| No | Nama | NIM | Task |
+|----|------|-----|------|
 | 1 | Mochammad Fikry Nugraha | 301250004 | Program/Desain |
 | 2 | Moch Haliq Gibran | 301250011 | Desain/Laporan |
 | 3 | Novan Nata Surya | 301250006 | Alur/PPT |
